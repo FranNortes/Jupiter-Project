@@ -32,7 +32,4 @@ Welcome to the repository of my final master's project, where I took on the role
 
 This project provided hands-on experience with end-to-end data analytics workflows. It integrated statistical analysis, data wrangling, and business intelligence techniques, all focused on solving real-world problems in a corporate HR environment.
 
----
-
-## 📂 Repository Structure (optional suggestion)
 
